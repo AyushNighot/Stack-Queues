@@ -1,4 +1,4 @@
-
+ 
 void solve(stack<int>&inputStack, int count, int size) {
     //base case
     if(count == size/2) {
