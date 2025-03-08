@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+ #include <bits/stdc++.h> 
 class Queue {
     int *arr;
     int qfront;
